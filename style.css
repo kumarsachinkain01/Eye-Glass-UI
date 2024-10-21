@@ -205,6 +205,7 @@ main {
     padding-top: 100px;
     overflow: hidden;
 }
+/* https://generated-assets.prod.myninja.ai/ccf26495-8c39-4384-b698-01161ef07ca9/05fed31e-6a3d-448f-b431-2c78518a629a_2.jpeg */
 /* https://www.cgsinc.com/sites/default/files/styles/blog_details/public/media/images/blog/7%20trends%20blog%20featured%20image.jpg?itok=Mtt0q2B5 */
 main::before {
     content: "";
@@ -213,7 +214,7 @@ main::before {
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url('background-AI.jpeg');
+    background-image: url('https://generated-assets.prod.myninja.ai/ccf26495-8c39-4384-b698-01161ef07ca9/05fed31e-6a3d-448f-b431-2c78518a629a_2.jpeg ');
     background-size: cover;
     background-position: center;
     animation: slideIn 1.5s ease-in-out forwards;
@@ -229,7 +230,7 @@ main::after {
     top: 0;
     width: 100%;
     height: 100%;
-    background-image: url('background-AI-1.jpeg');
+    background-image: url('https://generated-assets.prod.myninja.ai/ccf26495-8c39-4384-b698-01161ef07ca9/05fed31e-6a3d-448f-b431-2c78518a629a_3.jpeg');
     background-size: cover;
     background-position: center right;
     opacity: 0;
